@@ -9,7 +9,7 @@ depend: [PlugManX]
 commands:
   chickengens:
     aliases: [cg]
-    description: "Items go brrr"
+    description: "Manage Generators"
     permission: "op"
-    permission-message: "FUCK OFF!"
+    permission-message: "No OP?"
 permissions:
