@@ -1,0 +1,16 @@
+name: "ChickenProtect"
+version: "1.0.0"
+main: "vb.$chickenprotect.PluginMain"
+api-version: 1.13
+authors: [Preva1l]
+description: "SAVE THE CHICKENS!"
+prefix: "chickencraftyuwu"
+commands:
+  chickenprotect:
+    description: "ChickenProtect main command"
+    usage: "/chickenprotect"
+  AHHHHTPSANDFPSDED:
+    aliases: [emergencybutton]
+    permission: "op"
+    permission-message: "FUCK OFF"
+permissions:
