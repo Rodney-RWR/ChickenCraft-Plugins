@@ -12,5 +12,5 @@ commands:
   AHHHHTPSANDFPSDED:
     aliases: [emergencybutton]
     permission: "op"
-    permission-message: "FUCK OFF"
+    permission-message: "No OP?"
 permissions:
